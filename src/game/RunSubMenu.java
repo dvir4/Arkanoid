@@ -1,5 +1,5 @@
 /**
- * @author Dvir Aliyaho
+ * @author Dvir
  */
 package game;
 
